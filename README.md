@@ -21,7 +21,7 @@ To get a verification at verify.cpanel.net (To avoid any datacenter abuse report
 
 ```
 lic_verify
-```\
+```
 **Note: You can use our invoice generator tool to Generate a cPanel.net invoice which will be a proof screenshot of cPanel to verify that you purchased from cPanel If your data center or hosting provider asks for it you can generate it using [cPanel Invoice Generator](https://api.licensedash.com/invoice/), Now after you run the cPanl verify command and generated the invoice from our tool you are 100% secure from datacenter abuse report, you can also verify your IP at verify.cpanel.net**
 
 cPanel WHM\
